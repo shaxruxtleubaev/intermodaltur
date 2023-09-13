@@ -8,4 +8,4 @@ urlpatterns = [
     path('api/', include('api.urls'))
 ]
 
-urlpatterns += static(MEDIA_URL, decument_root=MEDIA_ROOT)
+urlpatterns += static(MEDIA_URL, document_root=MEDIA_ROOT)

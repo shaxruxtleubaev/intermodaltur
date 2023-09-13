@@ -9,4 +9,4 @@ DATABASES = {
     }
 }
 
-STATIC_ROOT = '/home/intermodal/intermodaltur.uz/backend/staticfiles'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')

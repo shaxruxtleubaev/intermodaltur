@@ -9,4 +9,4 @@ DATABASES = {
     }
 }
 
-STATIC_ROOT = '/home/intermodal/intermodaltur/staticfiles'
+STATIC_ROOT = '/home/intermodal/intermodaltur.uz/backend/staticfiles'

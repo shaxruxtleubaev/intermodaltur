@@ -7,7 +7,7 @@ class Client(Model):
         max_length=128
     )
 
-    date_of_birth = CharField(
+    date_of_birth = DateField(
         'Дата рождения',
         max_length=128
     )

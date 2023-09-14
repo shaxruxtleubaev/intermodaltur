@@ -20,6 +20,7 @@ INSTALLED_APPS = [
     # Local
     'api',
     'clients',
+    'tours',
 
     # Third party
     'django_cleanup.apps.CleanupConfig',
